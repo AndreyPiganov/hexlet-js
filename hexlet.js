@@ -6,3 +6,4 @@ console.log(e);
 console.log(d);
 console.log(c);
 console.log('Hello Hexlet');
+console.log(_.last(['one', 'two']));
