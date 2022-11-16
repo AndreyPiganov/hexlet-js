@@ -19,5 +19,8 @@
   "homepage": "https://github.com/AndreyPiganov/hexlet-js#readme",
   "dependencies": {
     "lodash": "^4.17.21"
+  },
+  "devDependencies": {
+    "jest": "^29.3.1"
   }
 }
